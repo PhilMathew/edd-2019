@@ -1,3 +1,6 @@
+// CODE FOR TEAMONE EDD 2019 PROJECT
+// STORED AT https://github.com/PhilMathew/edd-2019/blob/master/edd-2019.ino
+
 #include <Servo.h>
 
 //Arduino Pin Numbers
